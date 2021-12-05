@@ -1,2 +1,2 @@
 # WordViz
-View most common word on a graph
+View most common words on a graph
